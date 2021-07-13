@@ -1,0 +1,51 @@
+body{
+    font-family: 'Playball', cursive;
+    background-image: url("jason.jpg");
+}
+#lol {
+    background-color: tomato;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+  #omg {
+        background-color:green;
+        color: white;
+        margin: 20px;
+        padding: 20px;
+      }
+      #haha {
+          background-color: aqua;
+          color: black;
+          margin: 20px;
+          padding: 20px;
+      }
+      #kk
+      {
+        background-color: red;
+        color: black;
+        margin: 20px;
+        padding: 20px;
+    }
+    #pill     {
+        background-color:green;
+        color: black;
+        margin: 20px;
+        padding: 20px;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+      li {
+        display: inline;
+      }
+     img{
+       height: 250px;
+       width: 250px;
+       border-radius: 50%;
+      
+
+     }
